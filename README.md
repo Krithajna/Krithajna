@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Krithajna
 - 👀 I’m interested in Data Analyst field
-- 🌱 I’m currently learning Google Data Analytics from coursera
 - 💞️ I’m looking to collaborate on Data science community
 - 📫 How to reach me krithajna
 
